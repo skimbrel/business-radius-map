@@ -1,0 +1,5 @@
+Restaurant data from https://data.sfgov.org/Business-and-Economic-Development/Registered-Restaurants-in-SF/dg5s-2n6f,
+which was filtered from a full list of registered active businesses using codes specified here:
+http://www.sftreasurer.org/Modules/ShowDocument.aspx?documentid=218
+
+KML circle approximation done with http://code.google.com/p/kmlcircle/
